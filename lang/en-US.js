@@ -1,3 +1,3 @@
 export default {
-  welcome: 'Welcome'
+  title1: 'Сalc-windows.RF'
 }

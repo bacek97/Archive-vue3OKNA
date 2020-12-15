@@ -7,6 +7,8 @@
     "start": "nuxt start"
   },
   "dependencies": {
+    "@nuxt/http": "^0.6.1",
+    "@nuxtjs/composition-api": "^0.16.4",
     "@nuxtjs/vuetify": "^1.11.2",
     "node-gyp": "^7.1.2",
     "nuxt": "^2.14.11",
